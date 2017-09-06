@@ -1,4 +1,4 @@
-* new xcode can create a new folder in github with user name and passport
+* new xcode can create a new folder in github with user name and password
 
 click on the icon next to the folder icon
 
